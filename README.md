@@ -1,7 +1,5 @@
 <h1 align="center">Hi Soldier's👋🏻</h1>
-<h3 align="left">I'm Rakesh, pursuing my B.Tech Artificial Intelligence and Data Science at KNCET. Being a creative student, I break problems and solve them efficiently. Eager to learn new technologies and apply them to real-world challenges.</h3>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rakesh7890v&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="rakesh7890v" /></p>
+<p align="left">I'm <b>Rakesh</b>, pursuing my B.Tech Artificial Intelligence and Data Science at KNCET. Being a creative student, I break problems and solve them efficiently. Eager to learn new technologies and apply them to real-world challenges.</p>
 
 <h3 align="left">What I'm working on:</h3>
 <hr style="border: 0.5px solid lightgray;">
@@ -11,6 +9,9 @@
   <li>💬 Ask me about <strong>anything except electronics</strong></li>
   <li>📫 How to reach me <strong>rishirakesh587@gmail.com</strong></li>
 </ul>
+
+<b align="center">Profile Views:</b>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rakesh7890v&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="rakesh7890v" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <hr style="border: 0.5px solid lightgray;">
