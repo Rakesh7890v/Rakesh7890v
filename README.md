@@ -85,18 +85,17 @@
 </p>
 <hr>
 
+<h3 align="left">📊 My Github Data:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh7890v&show_icons=true&locale=en&layout=compact" alt="rakesh7890v" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakesh7890v&show_icons=true&locale=en" alt="rakesh7890v" />
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rakesh7890v" alt="rakesh7890v" />
   </a>
-</p>
-<hr>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh7890v&show_icons=true&locale=en&layout=compact" alt="rakesh7890v" />
-</p>
-<hr>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakesh7890v&show_icons=true&locale=en" alt="rakesh7890v" />
 </p>
