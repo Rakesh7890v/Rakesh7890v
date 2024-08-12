@@ -10,8 +10,9 @@
   <li>📫 How to reach me <strong>rishirakesh587@gmail.com</strong></li>
 </ul>
 
-<b align="center">Profile Views:</b>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rakesh7890v&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="rakesh7890v" /></p>
+<p align="center">
+  <b>Profile Views:</b>
+  <img src="https://komarev.com/ghpvc/?username=rakesh7890v&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="rakesh7890v" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <hr style="border: 0.5px solid lightgray;">
