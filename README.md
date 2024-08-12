@@ -94,8 +94,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rakesh7890v&show_icons=true&locale=en" alt="rakesh7890v" />
 </p>
 
+<h3>🏆 Github Tropies:</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rakesh7890v" alt="rakesh7890v" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rakesh7890v&row=2&column=4" alt="rakesh7890v" />
   </a>
 </p>
