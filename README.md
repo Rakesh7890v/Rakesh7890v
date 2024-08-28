@@ -5,7 +5,7 @@
 <hr style="border: 0.5px solid lightgray;">
 <ul>
   <li>🔭 I’m currently working on <strong>GEN-AI Projects</strong></li>
-  <li>🌱 I’m currently learning <strong>Machine Learning</strong></li>
+  <li>🌱 I’m currently learning <strong>Front-End Development</strong></li>
   <li>💬 Ask me about <strong>anything except electronics</strong></li>
   <li>📫 How to reach me <strong>rishirakesh587@gmail.com</strong></li>
 </ul>
